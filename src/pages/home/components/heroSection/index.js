@@ -38,8 +38,8 @@ const HeroSection = () => {
             />
           </div>
         </div>
-        <div className="container mx-auto flex w-full mb-10">
-          <hr className="mt-4 w-9/12 h-1 bg-gray-200 border-0 rounded " />
+        <div className="container mx-auto flex w-full mb-10 px-5">
+          <hr className="mt-4 w-9/12 h-2 bg-gray-200 border-0 rounded" />
           <div className="flex space-x-[10px]">
             <img src={instagram} className="ms-4 w-8" alt="instagram" />
             <img src={twitter} className="w-8" alt="twitter" />
