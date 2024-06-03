@@ -15,6 +15,9 @@ const Navbar = () => {
           <NavLink to="/" className="p-5 focus:font-extrabold text-xl">
             Home
           </NavLink>
+          <NavLink to="/products" className="p-5 focus:font-extrabold text-xl">
+            Products
+          </NavLink>
           <NavLink to="/about" className="p-5 focus:font-extrabold text-xl">
             About Us
           </NavLink>
